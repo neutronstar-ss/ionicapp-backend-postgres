@@ -13,9 +13,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.neutronstar.ionicapp.domain.Categoria;
 import com.neutronstar.ionicapp.domain.Pedido;
-import com.neutronstar.ionicapp.dto.CategoriaDTO;
 import com.neutronstar.ionicapp.services.PedidoService;
 
 @RestController

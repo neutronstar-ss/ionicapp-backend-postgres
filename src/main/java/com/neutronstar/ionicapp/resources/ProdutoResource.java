@@ -11,9 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.neutronstar.ionicapp.domain.Categoria;
 import com.neutronstar.ionicapp.domain.Produto;
-import com.neutronstar.ionicapp.dto.CategoriaDTO;
 import com.neutronstar.ionicapp.dto.ProdutoDTO;
 import com.neutronstar.ionicapp.resources.utils.URL;
 import com.neutronstar.ionicapp.services.ProdutoService;
